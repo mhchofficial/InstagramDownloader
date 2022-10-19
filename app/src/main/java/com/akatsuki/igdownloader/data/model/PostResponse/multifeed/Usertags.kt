@@ -1,0 +1,9 @@
+package com.akatsuki.igdownloader.data.model.PostResponse.multifeed
+
+
+import com.google.gson.annotations.SerializedName
+
+data class Usertags(
+    @SerializedName("in")
+    val inX: List<In>?
+)
