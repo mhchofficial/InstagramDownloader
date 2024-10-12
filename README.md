@@ -1,5 +1,7 @@
 # InstagramDownloader
-ig downloader with kotlin and compose via webview login
+Instagram downloader (story, reels, posts) for private and public accounts 
+
+ kotlin and compose via webview login
 
 this application work instagram Public Api 
 and use User cookies
